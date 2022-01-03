@@ -1,0 +1,1 @@
+This session focus on the basics of Pandas, a package similar to NumPy which contains tools and data structures for working with data. We will look at the key data structures that Pandas contains, how to create them, and how to extract basic information from them.
